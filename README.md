@@ -21,3 +21,9 @@
 #### - Less code is needed to create amazing web apps.
 #### - Data caching simplifies and speeds up computation pipelines.
 
+<br><br>
+
+<img src="https://blog.streamlit.io/content/images/2022/01/model-building.jpeg" alt="Hello world">
+<br><br><br><br>
+<img src="https://external-preview.redd.it/GfkMnT8czHf5IxEegCQKJZlkuxmLyxWt2OaHSJLcuaM.jpg?auto=webp&s=6d7be980ec0a6782fa071b516ea2cd7fffaca344" alt="Hello world">
+
